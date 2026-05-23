@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "LyricsFetch",
+    "slug": "lyricsfetch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0f0d13"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f0d13"
+      },
+      "package": "com.lyricsfetch.app"
+    },
+    "plugins": [
+      "react-native-reanimated"
+    ]
+  }
+}
