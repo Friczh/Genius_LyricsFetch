@@ -16,8 +16,6 @@
       },
       "package": "com.lyricsfetch.app"
     },
-    "plugins": [
-      "react-native-reanimated"
-    ]
+    "plugins": []
   }
 }
